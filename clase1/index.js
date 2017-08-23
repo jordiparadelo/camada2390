@@ -2,6 +2,7 @@
 
 var primerNumero = Number(prompt('ingresa un numero'), 0)
 var segundoNumero = Number(prompt('ingresa otro numero'), 0)
+var tercerNumero = 55
 
 var sumar = primerNumero + segundoNumero
 var restar = primerNumero - segundoNumero
